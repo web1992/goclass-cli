@@ -8,6 +8,11 @@ Use golang parse `class` file. Output like use `javap` cmd.
 javap -v Main.class
 ```
 
+## Run
+
+```shell script
+  go mod download  
+```
 ## Links
 
 - [The class File Format](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html)
