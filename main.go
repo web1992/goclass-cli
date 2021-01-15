@@ -6,7 +6,7 @@ import (
 	"github.com/web1992/goclass/parse"
 )
 
-var file = "/Users/zl/Documents/DEV/github/goclass-cli/testfile/GoClass.class"
+var file = "./testfile/GoClass.class"
 
 func main() {
 
